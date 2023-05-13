@@ -14,20 +14,20 @@
 6. Track annual employee review
 
 
+https://github.com/Amisha03032000/Day-Care-Application/assets/114260916/e6f83ecb-350b-4d97-ac21-f83c410d8423
+
+
+
 ## Team members
 - Amisha Gokhale- 002743313
 - Ishita Janwale- 002743313
 - Vaishnavi Bhoite- 002776319
-- Cyrus Dbritto- 002922815
 
 ## Requirements
 - NetBeans 12.0 
 - JDK 8 with `JAVA_HOME` pointing to it
 - A database viewer like [SQLite Browser](https://sqlitebrowser.org/dl/) or [Database Panel](https://www.jetbrains.com/help/idea/database-tool-window.html) in IDEA Ultimate (optional)
 
-## Conventions
-- Git message: [conventional commits](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
-- Working branches: `dev/<your name>`
 
 ## Editing Guide
 
@@ -40,9 +40,3 @@ For NetBeans users:
     - Select the `swing.jar` you just downloaded, and select all beans to import.
     - Now swingx components are visible on your GUI Designer palette.
 
-## CI
-
-```
-// Mac users only
-sudo xattr -rd com.apple.quarantine DayCare.app
-```
